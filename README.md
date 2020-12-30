@@ -1,2 +1,5 @@
-# SAD3 DataSet (SyntheticAbnormality Detection Dataset for Drones)
-Drone abnormality detection using extended isolation forest and excess mass curve
+# SAD3 Dataset (SyntheticAbnormality Detection Dataset for Drones)
+
+## Dataset Description
+
+The given dataset consists of two folders namely "Data_CSV" & "_". The former consists of CSV files containing the preprocessed data, and the latter consists of bag files containing unprocessed data. 
