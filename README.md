@@ -14,4 +14,4 @@ The CSV files under the "Normal" folder and the "raw_csv" subfolder in the "Abno
 
 
 | Index | Time | Image Similarity Score | Orientation(X) | Orientation(Y) | Orientation(Z) | Orientation(W) | Angular Velocity(X) | Angular Velocity(Y) | Angular Velocity(Z) | Linear Acceleration(X) | Linear Acceleration(Y) | Linear Acceleration(Z) | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ---- | --- | ---- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
