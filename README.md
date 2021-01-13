@@ -24,4 +24,4 @@ The CSV files under the "combined_csv" subfolder in the "Abnormal" folder have t
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
-
+**_Note:_** The values under the Ground Truth column are binary. A value of one implies normal behaviour at the given time instant whereas a value of 0 implies abnormal behaviour.
