@@ -16,3 +16,12 @@ The CSV files under the "Normal" folder and the "raw_csv" subfolder in the "Abno
 | Index | Time | Image Similarity Score | Orientation(X) | Orientation(Y) | Orientation(Z) | Orientation(W) | Angular Velocity(X) | Angular Velocity(Y) | Angular Velocity(Z) | Linear Acceleration(X) | Linear Acceleration(Y) | Linear Acceleration(Z) | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+
+The CSV files under the "combined_csv" subfolder in the "Abnormal" folder have their values generated in the following format (in SI units):
+
+
+| Index | Time | Image Similarity Score | Orientation(X) | Orientation(Y) | Orientation(Z) | Orientation(W) | Angular Velocity(X) | Angular Velocity(Y) | Angular Velocity(Z) | Linear Acceleration(X) | Linear Acceleration(Y) | Linear Acceleration(Z) | Ground Truth | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+
+
