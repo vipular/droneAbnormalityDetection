@@ -13,5 +13,7 @@ The abnormal CSV files available in this given datasets are of two kinds; namely
 The CSV files under the "Normal" folder and the "raw_csv" subfolder in the "Abnormal" folder have their values generated in the following format (in SI Units):
 
 
-|Index|Time|Image Similarity Score|Orientation(X)}Orientation(Y)|Orientation(Z)|Orientation(W)|Angular Velocity(X)|Angular Velocity(Y)|Angular Velocity(Z)|Linear Acceleration(X)|Linear Acceleration(Y)|Linear Acceleration(Z)|
-|---|---|---|---|---|---|---|---|---|---|----|----|---|----|---|---|---|---|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
