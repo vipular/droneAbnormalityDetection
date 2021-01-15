@@ -1,0 +1,13 @@
+previous file index, current file index 
+1, 1
+5, 2
+6, 3
+7, 4
+nwg1, 5
+nwg2, 6
+nwg3, 7
+nwg4, 8
+wg2, 9
+wg3, 10
+wg6, 11
+wg7, 12
