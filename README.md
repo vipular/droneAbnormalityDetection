@@ -32,9 +32,9 @@ The CSV files under the _"combined_csv"_ subfolder in the _"Abnormal"_ folder ha
 
 
 
-Number of datapoints in Normal Files
+Total Number of datapoints in Normal Training Files = 5576
 
-| File number | Total Time Steps |
+| File number | Time Steps |
 |---|---|
 |/Data_CSV/Normal/file1.csv  |951|
 |/Data_CSV/Normal/file2.csv  |495|
@@ -44,11 +44,12 @@ Number of datapoints in Normal Files
 |/Data_CSV/Normal/file6.csv  |857|
 |/Data_CSV/Normal/file7.csv  |858|
 |/Data_CSV/Normal/file8.csv  |603|
+|Total Time steps | 5576|
 
-Number of datapoints in Abnormal Files
-| File number | Total Time Steps |
+Total Number of datapoints in Abnormal Training Files
+| File number | Time Steps |
 |---|---|
-|1  |423|
-|2  |435|
-|3  |259|
-|4  |447|
+|/Data_CSV/Abnormal/file1.csv   |423|
+|/Data_CSV/Abnormal/file2.csv |435|
+|/Data_CSV/Abnormal/file3.csv |259|
+|/Data_CSV/Abnormal/file4.csv  |447|
