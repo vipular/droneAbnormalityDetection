@@ -36,14 +36,14 @@ Number of datapoints in Normal Files
 
 | File number | Total Time Steps |
 |---|---|
-|1  |951|
-|2  |495|
-|3  |589|
-|4  |769|
-|5  |454|
-|6  |857|
-|7  |858|
-|8  |603|
+|/Data_CSV/Normal/file1.csv  |951|
+|/Data_CSV/Normal/file2.csv  |495|
+|/Data_CSV/Normal/file3.csv |589|
+|/Data_CSV/Normal/file4.csv |769|
+|/Data_CSV/Normal/file5.csv |454|
+|/Data_CSV/Normal/file6.csv  |857|
+|/Data_CSV/Normal/file7.csv  |858|
+|/Data_CSV/Normal/file8.csv  |603|
 
 Number of datapoints in Abnormal Files
 | File number | Total Time Steps |
