@@ -46,10 +46,24 @@ Total Number of datapoints in Normal Training Files = 5576
 |/Data_CSV/Normal/file8.csv  |603|
 |Total Time steps | 5576|
 
-Total Number of datapoints in Abnormal Training Files
+Total Number of datapoints in Abnormal Training Files = 1564
 | File number | Time Steps |
 |---|---|
 |/Data_CSV/Abnormal/file1.csv   |423|
 |/Data_CSV/Abnormal/file2.csv |435|
 |/Data_CSV/Abnormal/file3.csv |259|
 |/Data_CSV/Abnormal/file4.csv  |447|
+| Total Time steps | 1564 |
+
+Total Number of datapoints in Testing Files (Containing both normal and abnormal points) = 3027
+| File number | Time Steps |
+|---|---|
+|/Data_CSV/Abnormal/file5.csv |1008|
+|/Data_CSV/Abnormal/file6.csv  |753|
+|/Data_CSV/Abnormal/file7.csv  |773|
+|/Data_CSV/Abnormal/file8.csv|493| 
+|Total Time Steps | 3027 |
+
+
+
+
