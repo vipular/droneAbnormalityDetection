@@ -44,3 +44,11 @@ Number of datapoints in Normal Files
 |6  |857|
 |7  |858|
 |8  |603|
+
+Number of datapoints in Abnormal Files
+| File number | Total Time Steps |
+|---|---|
+|1  |423|
+|2  |435|
+|3  |259|
+|4  |447|
