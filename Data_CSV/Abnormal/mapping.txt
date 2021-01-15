@@ -7,8 +7,7 @@ nwg1, 5
 nwg2, 6
 nwg3, 7
 nwg4, 8
-nwg6, 9
-wg2, 10
-wg3, 11
-wg6, 12
-wg7, 13
+wg2, 9
+wg3, 10
+wg6, 11
+wg7, 12
