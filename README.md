@@ -36,3 +36,11 @@ Number of datapoints in Normal Files
 
 | File number | Total Time Steps |
 |---|---|
+|1  |951|
+|2  |495|
+|3  |589|
+|4  |769|
+|5  |454|
+|6  |857|
+|7  |858|
+|8  |603|
