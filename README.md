@@ -34,35 +34,35 @@ The CSV files under the _"combined_csv"_ subfolder in the _"Abnormal"_ folder ha
 
 Total Number of datapoints in Normal Training Files = 5576
 
-| File number | Time Steps |
-|---|---|
-|/Data_CSV/Normal/file1.csv  |951|
-|/Data_CSV/Normal/file2.csv  |495|
-|/Data_CSV/Normal/file3.csv |589|
-|/Data_CSV/Normal/file4.csv |769|
-|/Data_CSV/Normal/file5.csv |454|
-|/Data_CSV/Normal/file6.csv  |857|
-|/Data_CSV/Normal/file7.csv  |858|
-|/Data_CSV/Normal/file8.csv  |603|
-|Total Time steps | 5576|
+| File number | Time Steps | Duration |
+|---|---|---|
+|/Data_CSV/Normal/file1.csv  |951|95.027 s|
+|/Data_CSV/Normal/file2.csv  |495|56.533 s|
+|/Data_CSV/Normal/file3.csv |589|58.87 s|
+|/Data_CSV/Normal/file4.csv |769|80.535 s|
+|/Data_CSV/Normal/file5.csv |454|45.24 s|
+|/Data_CSV/Normal/file6.csv  |857|89.948 s|
+|/Data_CSV/Normal/file7.csv  |858|90.983 s|
+|/Data_CSV/Normal/file8.csv  |603|59.48 s|
+|Total Time steps | 5576|576.606 s|
 
 Total Number of datapoints in Abnormal Training Files = 1564
-| File number | Time Steps |
-|---|---|
-|/Data_CSV/Abnormal/file1.csv   |423|
-|/Data_CSV/Abnormal/file2.csv |435|
-|/Data_CSV/Abnormal/file3.csv |259|
-|/Data_CSV/Abnormal/file4.csv  |447|
-| Total Time steps | 1564 |
+| File number | Time Steps | Duration |
+|---|---|---|
+|/Data_CSV/Abnormal/file1.csv   |423|45.135 s|
+|/Data_CSV/Abnormal/file2.csv |435|44.023 s|
+|/Data_CSV/Abnormal/file3.csv |259|25.975 s|
+|/Data_CSV/Abnormal/file4.csv  |447|44.598 s|
+| Total Time steps | 1564 |159.731 s|
 
 Total Number of datapoints in Testing Files (Containing both normal and abnormal points) = 3027
-| File number | Time Steps |
-|---|---|
-|/Data_CSV/Abnormal/file5.csv |1008|
-|/Data_CSV/Abnormal/file6.csv  |753|
-|/Data_CSV/Abnormal/file7.csv  |773|
-|/Data_CSV/Abnormal/file8.csv|493| 
-|Total Time Steps | 3027 |
+| File number | Time Steps | Duration |
+|---|---|---|
+|/Data_CSV/Abnormal/file5.csv |1008|105.8 s|
+|/Data_CSV/Abnormal/file6.csv  |753|79.049 s|
+|/Data_CSV/Abnormal/file7.csv  |773|79.289 s|
+|/Data_CSV/Abnormal/file8.csv|493|58.963 s|
+|Total Time Steps | 3027 |323.101 s|
 
 
 
